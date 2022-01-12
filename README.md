@@ -1,11 +1,16 @@
                         
-# INDUCTION  
+# Steps to  access code 
 **step1**:
 *create a git account*  
 **step2**:
-*Go to your profile and copy the profile url*  
+*Once account is created go to your account.Click your profile_image which is in top right corner.*   
 **step3**:
-*Go to chat in kissflow
+*Once clicked copy the webpage url which is your profile link.*  
+**step4**:
+*Goto kissflow website and open chat*  
+**step5**:
+*In chat search for vivekmadurai and send the copied profile link to him and ask him to give you code*. 
+
 
 
 
