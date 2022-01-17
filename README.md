@@ -1,7 +1,7 @@
                         
 # Steps to  access code 
 **step1**:
-*create a git account*  
+*create a github account*  
 **step2**:
 *Once account is created go to your account.Click your profile_image which is in top right corner.*   
 **step3**:
