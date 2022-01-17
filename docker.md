@@ -11,6 +11,9 @@
 
 **step6**:Wait till copying process complete.After copying open the docker app.
 
+**step7**:open terminal and type *"Docker --version"* to verify whether docker is installed or not
+
+
 
 
 
