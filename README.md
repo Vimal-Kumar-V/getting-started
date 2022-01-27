@@ -32,6 +32,13 @@ step8.2:Type the following command.
 **step12**:Click your **profile image** and goto **settings**.In settings search for **ssh and gpg keys**  
 **step13**:Click **SSH and GPG KEYS** and then click **new SSH keys** which is in top right corner below your profile image  
 **step14**:In **Title** section give title as your wish and **Paste the key in key section**.  
+**step15**:Go to the kissflow-xg repository and copy the url
+**step15**:Open **Terminal** and clone the kissflow-xg  by
+
+        git clone ""Paste the copied url""
+**step16**:Open the cloned folder with pycharm and you can access the base code.  
+
+
 
 
 
