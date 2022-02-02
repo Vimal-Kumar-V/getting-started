@@ -1,4 +1,4 @@
-**1**.Open **Kissflow-xg** folder  in pycharm 
+**1**.Open **Kissflow-xg** folder  in pycharm.  
 **2**.Search for **docker-compose-mock.yml** file and open the file.  
 **3**.After opening the file search for &nbsp;**mongo-service** in the file and uncomment lines below mongo-service till the line with same indentation level spotted  
 &nbsp;&nbsp;*NOTE*:For mac m1 chip,under mongo-services include the following command for successful exexcution 
