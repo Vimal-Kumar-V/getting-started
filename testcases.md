@@ -16,7 +16,7 @@
 
 &nbsp;&nbsp;&nbsp;**To run a *test* directory**
 
-        i)Right click the test directory
+        i)Right click the tests directory
         ii)Click "Run  python tests in test.."
                (OR)
-       i)Click the directory and press control+shift+R
+       i)Click the tests directory and press control+shift+R
