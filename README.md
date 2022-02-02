@@ -16,8 +16,8 @@
 *This link will redirect you to github where you can see **FORK** in top right corner.Click the fork button.  
 **step8**:
 Create a new folder with name as your wish in Documents Folder.It can done by opening terminal  
-step8.1:open terminal  
-step8.2:Type the following command. 
+  step8.1:open terminal  
+  step8.2:Type the following command. 
       
       cd Documents
       mkdir kf
@@ -33,9 +33,12 @@ step8.2:Type the following command.
 **step13**:Click **SSH and GPG KEYS** and then click **new SSH keys** which is in top right corner below your profile image  
 **step14**:In **Title** section give title as your wish and **Paste the key in key section**.  
 **step15**:Go to the kissflow-xg repository and copy the url
-**step15**:Open **Terminal** and clone the kissflow-xg  by
+**step15**:Open **Terminal** and clone the kissflow-xg  by  
 
-        git clone ""Paste the copied url""
+    git remote add origin "copied url".git
+    git pull ""Paste the copied url""
+    git fetch upstream
+    git merge upstream/master
 **step16**:Open the cloned folder with pycharm and you can access the base code.  
 
 
