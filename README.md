@@ -30,19 +30,29 @@ It can done by opening terminal and typing the following command.
 **11**:Click your **profile image** and goto **settings**.In settings search for **ssh and gpg keys**  
 **12**:Click **SSH and GPG KEYS** and then click **new SSH keys** which is in top right corner below your profile image  
 **13**:In **Title** section give title as your wish and **Paste the key in key section**.  
-**14**:Go to the kissflow-xg repository and copy the git ssh  
+**14**:Go to the your repository and copy the git ssh  
 &nbsp;&nbsp;To Copy git ssh:  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i)Click the **CODE** button   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii)Select **SSH** in the drop down  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii)Copy the **Link**  
-**15**:Open **Terminal** and clone the kissflow-xg  by  
+**15** To set your repo as origin 
 
+ &nbsp;&nbsp; &nbsp;&nbsp;Open **Terminal** and type the following command
+ 
     git remote add origin "Paste the Link"
+**16**:Go to the kissflow-xg repository and copy the git ssh  
+&nbsp;&nbsp;To Copy git ssh:  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;i)Click the **CODE** button   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ii)Select **SSH** in the drop down  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iii)Copy the **Link**    
+
+**17**:Open **Terminal** and clone the kissflow-xg  by   
+
     git remote add upstream "Paste the Link"
     git pull "Paste the Link"
     git fetch upstream
     git clone "Paste the Link" 
-**step16**:Open the cloned folder with pycharm and you can access the base code.  
+**18**:Open the cloned folder with pycharm and you can access the base code.  
 
 
 
